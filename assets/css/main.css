@@ -23,8 +23,8 @@ footer {
 }
 
 footer .small {
-	font-size: 1.1rem;
-	font-weight: 400;
+	font-size: 1.15rem;
+	font-weight: 500;
 }
 
 footer .text-muted {
@@ -174,23 +174,23 @@ h1, h2 {
 .display-1 {
 	color: #17468F;
 	font-weight: 800;
-	font-size: 5.1rem;		 
+	font-size: 4.51rem;		 
 }
 
 .display-4 {
-	font-size: 3.1rem;
+	font-size: 2.73rem;
 	color: #009F4E;
 	font-weight: 600;
 }
 
 .display-5 {
-  font-size: 2.1rem;
+  font-size: 1.853rem;
   font-weight: 400;
 	color: #17468F;  
 }
 
 .display-6 {
-  font-size: 2.3rem;
+  font-size: 2.03rem;
   font-weight: 400;
 	color: #009F4E;  
 }
@@ -202,7 +202,7 @@ h1, h2 {
 
 .coming-soon {
 	font-family: 'Bungee Shade';
-	font-size: 4.9rem;
+	font-size: 4.3rem;
 	font-weight: 500;	
 	color: rgba(255, 206, 7, .8);
 	max-width: 100%;
@@ -284,6 +284,11 @@ hr {
 	.bg-cover-img {
 		background-image: url(../images/sm-jumbotron.jpg);
 	}
+
+footer .small {
+	font-size: 1.1rem;
+	font-weight: 400;
+}
 
 	.display-1 {
 	  font-size: 5.9rem;
